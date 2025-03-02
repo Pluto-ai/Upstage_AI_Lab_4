@@ -1,0 +1,2 @@
+commerce-purchase-predict/data/sample_submission.csv filter=lfs diff=lfs merge=lfs -text
+commerce-purchase-predict/data/train.parquet filter=lfs diff=lfs merge=lfs -text
